@@ -1,0 +1,6 @@
+crawl4ai
+langchain-ollama
+langchain-core
+langchain-community
+pypdf
+scikit-learn
